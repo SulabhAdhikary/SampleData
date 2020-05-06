@@ -1,6 +1,6 @@
 {
 	"BasicDetail": {
-		"RequestType": "New Supplier",
+		"RequestType": "New Supplier 123",
 		"SupplierLeganName": "ABAC Consulting LLC",
 		"SupplierType": "Individual/Contractor",
 		"PurposeOfRequest": "Reasearch and development",
@@ -11,7 +11,7 @@
 		"RequestedBy": "Jenny Wilkens"
 	},
 	"SupplierContact": [{
-		"FullName": "Hannah Bateman",
+		"FullName": "Hannah Bateman 12" ,
 		"Phone": "467-290",
 		"Region": "Central America",
 		"Email": "hannahbateman@abc,com"
